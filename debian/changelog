@@ -1,8 +1,12 @@
-aspcud (1:1.9.4-5) UNRELEASED; urgency=medium
+aspcud (1:1.9.4-5deepin0) unstable; urgency=medium
 
+  [ Ralf Treinen ]
   * update
 
- -- Ralf Treinen <treinen@debian.org>  Thu, 07 Jul 2022 16:34:51 +0800
+  [ Tianyu Chen ]
+  * No source change upload against GCC 12.
+
+ -- Tianyu Chen <sweetyfish@deepin.org>  Thu, 19 Sep 2024 22:42:11 +0800
 
 aspcud (1:1.9.4-5) unstable; urgency=medium
 
